@@ -1,4 +1,5 @@
 //Alumno Alex Palomeque(93077/3)
+//Video https://www.youtube.com/watch?v=SZpxqGMDwrs
 //Tp 1 Programación para medios interactivos orientada a las tecnologías web
 let foto;
 let distancia = 4;
