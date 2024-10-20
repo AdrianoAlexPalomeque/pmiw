@@ -1,6 +1,7 @@
 //Juan Lehue -- 94773/6
 //Alex Palomeque -- 93077/3
 //Continuidad de los parques
+//https://youtu.be/x--5KFi9Bu0
 
 let textos = [];
 let imagenes = [];
