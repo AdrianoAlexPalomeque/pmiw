@@ -2,7 +2,7 @@
 //Alex Palomeque -- 93077/3
 //Continuidad de los parques
 //https://youtu.be/x--5KFi9Bu0
-
+//https://youtu.be/ozU-pqNpouQ
 let textos = [];
 let imagenes = [];
 let bloque, mitadAn, mitadAl;
