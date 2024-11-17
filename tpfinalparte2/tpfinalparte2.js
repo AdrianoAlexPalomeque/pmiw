@@ -2,6 +2,7 @@
 //Alex Palomeque -- 93077/3
 //Continuidad de los parques
 //https://youtu.be/1WaDA1J2IUU
+//https://youtu.be/wadN_gjW674
 
 let game;
 let cuchillo;
